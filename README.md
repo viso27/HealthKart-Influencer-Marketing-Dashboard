@@ -30,7 +30,7 @@ To evaluate the ROI of influencer campaigns by:
 
 ---
 
-# #Sample Insights
+## Sample Insights
 - Twitter fitness influencers have the highest ROAS
 - Top 5 influencers account for ~40% of total revenue
 - Gritzo shows the most incremental revenue uplift
